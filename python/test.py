@@ -2,7 +2,6 @@ import time
 import datetime
 import pytz
 import bs4
-import pandas as pd
 import json
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
